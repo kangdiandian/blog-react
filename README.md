@@ -1,6 +1,6 @@
-#第一个react项目
+# 第一个react项目
 
-##Project setup
+## Project setup
 ```bash
 yarn install
 ```
