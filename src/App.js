@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit and sae to o ad.
+          Edit a nd sae to o ad.
         </p>
         <a
           className="App-link"
