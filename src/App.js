@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit a nd saqwwwwwwd11ss to o ad.
+          Edit a nd swd11ss to o ad.
         </p>
         <a
           className="App-link"
