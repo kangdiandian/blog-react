@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit and save to relo ad.
+          Edit and save to relo .
         </p>
         <a
           className="App-link"
